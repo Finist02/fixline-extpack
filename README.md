@@ -15,7 +15,7 @@
 
 `extension.js`
 
-![extension](./images/extDoxy.png)
+![extension](/images/extDoxy.png)
 
 `CodeParserController.js`
-![extension](./images/codeParserDoxy.png)
+![extension](/images/codeParserDoxy.png)
