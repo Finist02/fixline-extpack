@@ -1,8 +1,9 @@
 {
-  "name": "kaskad-extpack",
-  "displayName": "Kaskad_extPack",
+  "name": "fixline-extpack",
+  "displayName": "fixline-extpack",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Danil",
   "engines": {
     "vscode": "^1.93.0"
   },
