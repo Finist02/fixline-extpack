@@ -2,7 +2,7 @@
   "name": "fixline-extpack",
   "displayName": "fixline-extpack",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Danil",
   "icon": "images/fixline.png",
   "engines": {
@@ -13,9 +13,7 @@
   ],
   "activationEvents": [],
   "browser": "./dist/web/extension.js",
-  "contributes": {
- 
-  },
+  "contributes": {},
   "scripts": {
     "test": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. --extensionTestsPath=dist/web/test/suite/index.js",
     "pretest": "npm run compile-web",
