@@ -5,6 +5,10 @@
   "version": "0.0.2",
   "publisher": "Danil",
   "icon": "images/fixline.png",
+  "repository": {
+        "url": "https://github.com/Finist02/fixline-extpack.git",
+        "type": "git"
+    },
   "engines": {
     "vscode": "^1.93.0"
   },
