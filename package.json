@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "Danil",
+  "icon": "images/fixline.png",
   "engines": {
     "vscode": "^1.93.0"
   },
