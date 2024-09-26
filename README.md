@@ -19,7 +19,7 @@ This extension pack includes a set of extensions for Control development in Visu
 
 `extension.js`
 
-![extension](/images/extDoxy.png)
+![extension](./images/extDoxy.png)
 
 `CodeParserController.js`
-![extension](/images/codeParserDoxy.png)
+![extension](./images/codeParserDoxy.png)
